@@ -1,4 +1,11 @@
-
+#main {
+    background-image: url(../img/body/IMG_0828.JPG);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    margin: 0 auto !important;
+    padding: 90px 110px!important;
+    z-index: 2;
+}
 #body_content {
     width: 90%;
     margin: auto;
